@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-esto esta muy mal...
-
-estoy bien feliz 3
-=======
-esto esta muy mal...
-
-estoy bien feliz
->>>>>>> branch 'master' of https://github.com/efperez/superman.git
+maldito..
